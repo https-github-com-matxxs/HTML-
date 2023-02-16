@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Minha página de teste</title>
-  </head>
-  <body>
-    <img src="images/firefox-icon.png" alt="minha página de teste">
-  </body>
-</html>
+<html> 
+      <body>
+      
+            Ola turma ! </b>
+            Estamos começando a criar nosso paginas HTML 
+            Esta é so uma delas < abraco > Um abração a todos ! </b> < /abraco>
+       <!-- Nao se esquecam de que isso pode cair na P1 -->
+       
+       </body>
+</html>       
+      
